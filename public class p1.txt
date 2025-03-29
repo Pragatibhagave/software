@@ -1,0 +1,7 @@
+public class p1{
+
+       Public Static void main (string []args)
+           System.out.println("Hello Java");
+           }
+
+  
